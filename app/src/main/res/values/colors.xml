@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="imageview_background_color">#FFAAAAAA</color>
+    <color name="main_activity_button_background_layout_color">#FFDDDDDD</color>
+    <color name="item_background_color">#FFDDDDDD</color>
+</resources>
