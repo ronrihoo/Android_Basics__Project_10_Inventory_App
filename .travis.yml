@@ -1,0 +1,22 @@
+language: android
+android:
+  components:
+    # Use the latest revision of Android SDK Tools
+    #- platform-tools
+    #- tools
+
+    # BuildTools version
+    - build-tools-19.1.0
+
+    # SDK version
+    - android-24
+
+    # Additional components
+    - extra-google-google_play_services
+    - extra-google-m2repository
+    - extra-android-m2repository
+    - addon-google_apis-google-19
+
+    # System images
+    - sys-img-armeabi-v7a-android-22
+    - sys-img-x86-android-17
